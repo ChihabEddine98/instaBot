@@ -1,2 +1,2 @@
 # instaBot
-Instagram Bot With Python 
+Instagram Bot Scrapper With Python 
