@@ -2,4 +2,4 @@
 Instagram Bot Scrapper With Python 
 
 
-Wrapper ?? 
+Scrapper .
