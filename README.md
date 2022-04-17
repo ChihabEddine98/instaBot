@@ -1,4 +1,4 @@
 # instaBot
-Instagram Bot Scrapper With Python 3.11
+Instagram Bot Scrapper With Python 3.10.x
 
 
